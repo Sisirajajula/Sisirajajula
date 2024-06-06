@@ -1,6 +1,8 @@
 ### Hi there 👋
-I am Sisira Jajula, from 🇮🇳
+I am Sisira Jajula, a python programming enthusiast.
 
+📫 How to reach me: ...
+😄 Pronouns: She/her
 <!--
 **Sisirajajula/Sisirajajula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
