@@ -5,7 +5,7 @@ I have been studying Python and C and aim to continuously learn new technologies
 
 * 🌍  I'm based in Hyderabad, India
 * ✉️  You can contact me at [jajulasisira@gmail.com](mailto:jajulasisira@gmail.com)
-* 🧠  I'm learning Scikit-learn machine learning library, Blazor - C#.
+* 🧠  I'm learning Scikit-learn machine learning library and working on to improve my data analytics skills.
 * 🤝  I'm open to collaborating on Engaging projects.
 
 ### Skills
